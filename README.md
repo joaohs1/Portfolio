@@ -1,5 +1,5 @@
 # Portfólio de Análise e Ciência de Dados
-[![author](https://img.shields.io/badge/author-JoaoHenrique-blue.svg)]([https://www.linkedin.com/in/joão-henrique-94900815a/]) 
+[![author](https://img.shields.io/badge/author-JoaoHenrique-blue.svg)](https://www.linkedin.com/in/joão-henrique-94900815a/) 
 
 ## **PROJETOS**
 
