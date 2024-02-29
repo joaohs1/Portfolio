@@ -13,7 +13,7 @@
      b) Qual característica está mais atrelada ao bom desempenho no exame?
   - [Clique aqui para obter mais detalhes do projeto](https://github.com/joaohs1/Analise-de-dados-do-ENEM/tree/main)
 <p align="center">
-<img src="https://github.com/joaohs1/Analise-de-dados-do-ENEM/blob/main/img/relatfin.png">
+<img src="https://github.com/joaohs1/Analise-de-dados-do-ENEM/blob/main/img/relatfin.png" height="500">
 </p>
 
 ### [**Risco de doenças cardiovasculares**](https://github.com/joaohs1/Risco-cardio/tree/main)
@@ -23,5 +23,5 @@
      
   - [Clique aqui para obter mais detalhes do projeto](https://github.com/joaohs1/Risco-cardio/tree/main)
 <p align="center">
-<img src="https://github.com/joaohs1/Risco-cardio/blob/main/img/imccardio.png">
+<img src="https://github.com/joaohs1/Risco-cardio/blob/main/img/imccardio.png" height="300">
 </p>al
